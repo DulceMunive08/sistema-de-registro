@@ -3,3 +3,4 @@
 Estado del proyecto: En Construcción
  para ejecutar el sistema deber poner
  ```nmp instal react```
+Sistema de Registro 2

@@ -6,4 +6,4 @@
 
  ```nmp instal react```
 
-Sistema de Registro 2  
+Sistema de Registro2
